@@ -2,12 +2,6 @@
 
 # By idefixkaputt
 
-# To do:
-#   When entering length, repeat request if not a number
-#   According to level of risk, force that all types of characters appear, it can happen that just numbers appear
-#   Ask again if typed values are not correct for either string or integer for any input
-#   When multiple passwords with different characteristics, make all the passwords appear together at the end (learning lists and dictionaries to implement this)
-
 import sys
 import random
 
